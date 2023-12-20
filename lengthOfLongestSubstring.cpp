@@ -75,7 +75,7 @@ have to start the removal of elements till the already found element)
 */
 
 /*
-method_Two explaination: creating a vector of capacity 128(for Max ASCII for alphabets)
+method_Two explaination: it also called as SLIDING WINDOW TECHNIQUE creating a vector of capacity 128(for Max ASCII for alphabets)
 then initializing the values with -1 and then keep updating m if the distinct elements is
 encoutering and store the index of the element in vector at their corresponding ascii
 i.e a has ascii 97 if it is comming at index 4 then at index 97 of vector the value would be 4
